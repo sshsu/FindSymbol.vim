@@ -10,13 +10,13 @@ This plugin is automatically detach from [SpaceVim](https://github.com/SpaceVim
 for dein.vim
 
 ```vim
-call dein#add('wsdjeg/FlyGrep.vim')
+call dein#add('sshsu/FindSymbol.vim')
 ```
 
 for vim-plug
 
 ```vim
-Plug 'wsdjeg/FlyGrep.vim'
+Plug 'sshsu/FindSymbol.vim'
 ```
 
 ## usage
